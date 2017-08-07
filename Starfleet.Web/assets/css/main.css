@@ -2969,6 +2969,12 @@
 			color: white;
 			margin-bottom: 1.75em;
 		}
+        #banner h3 {
+            font-size: 1.5em;
+            font-weight: 300;
+            color: white;
+            margin-bottom: 1.75em;
+        }
 
 		@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
 
