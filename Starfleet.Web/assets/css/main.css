@@ -2971,7 +2971,7 @@
 		}
         #banner h3 {
             font-size: 1.5em;
-            font-weight: 300;
+            font-weight: 600;
             color: white;
             margin-bottom: 1.75em;
         }
@@ -3009,6 +3009,9 @@
 				#banner h1 {
 					font-size: 2.5em;
 				}
+                #banner b{
+                    font-size: 1.25em;
+                }
 
 				#banner p {
 					font-size: .9em;
