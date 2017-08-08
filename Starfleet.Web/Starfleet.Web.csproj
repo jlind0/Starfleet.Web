@@ -80,10 +80,13 @@
     <Content Include="elements.html" />
     <Content Include="generic.html" />
     <Content Include="images\daniel.jpg" />
+    <Content Include="images\hyperwarp.jpg" />
     <Content Include="images\jack-driscoll.jpg" />
     <Content Include="images\jason-lind.jpg" />
     <Content Include="images\banner.jpg" />
     <Content Include="images\norkle.jpg" />
+    <Content Include="images\badge.jpg" />
+    <Content Include="images\siskos.jpg" />
     <Content Include="images\tosi.jpg" />
     <Content Include="images\newbk.gif" />
     <Content Include="index.html" />
